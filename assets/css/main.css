@@ -2612,6 +2612,18 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+		#logo img{
+			width: 250px;
+			height: 350px;
+		}
+		#branding img{
+			width: 50%;
+			height: 50%;
+		}
+		#portrait img{
+			width: 50%;
+			height: 50%;
+		}
 
 /* List */
 
